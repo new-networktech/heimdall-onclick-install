@@ -136,18 +136,3 @@ Enter your Telegram chat ID: ********
 All files created successfully!
 You can now run the playbook using: ansible-playbook -i inventory.ini update_heimdall.yml
 ```
-
-```plaintext
-Welcome to the Heimdall Ansible Automation Setup!
-Installing prerequisites...
-Prerequisites installed successfully.
-Please provide the following details for Heimdall setup:
-Enter your Telegram bot token: ***************
-Enter your Telegram chat ID: ********
-All files created successfully!
-You can now run the playbook using: ansible-playbook -i inventory.ini update_heimdall.yml
-```
-
----
-
-This updated README ensures that users are well-informed about both the installation and uninstallation processes. Let me know if you'd like any further refinements! 😊
