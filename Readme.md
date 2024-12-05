@@ -14,7 +14,7 @@ This project provides an easy, automated way to set up and update Heimdall on yo
 ---
 
 ## **Prerequisites**
-1. A fresh Ubuntu 22 server.
+1. A fresh Ubuntu 22 or + server.
 2. Basic familiarity with using the command line (no technical expertise required).
 3. A Telegram bot token and your Telegram chat ID.
 
