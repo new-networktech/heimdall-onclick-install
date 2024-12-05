@@ -15,8 +15,8 @@ def install_prerequisites():
     subprocess.run(["sudo", "apt", "install", "-y", "ansible", "git", "docker.io", "python3-pip"])
     
     print("Installing Python dependencies...")
-    subprocess.run(["pip3", "install", "--upgrade", "pip"])  # Ensure pip is up to date
-    subprocess.run(["pip3", "install", "colorama"])  # Install colorama for colored output
+    subprocess.run(["pip3", "install", "--upgrade", "pip"])  
+    subprocess.run(["pip3", "install", "colorama"]) 
 
     print("All prerequisites installed successfully.")
 
